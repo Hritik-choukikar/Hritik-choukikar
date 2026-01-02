@@ -29,15 +29,24 @@ I'm currently developing a Streaming Service composed of multiple microservices 
 ---
 
 ## 📈 Goals
+The goal of this project is to design and develop a scalable streaming platform built from multiple microservices. Each service — from authentication and user management to content catalog, video delivery, and notifications — is modular, independently deployable, and orchestrated through Kubernetes.
+
+By leveraging cloud databases (Aiven MySQL), secure secret management, and CI/CD pipelines, the aim is to create a system that is:
+
+Resilient: Fault-tolerant and self-healing under load.
+
+Scalable: Able to handle increasing traffic by horizontally scaling microservices.
+
+Developer-friendly: Easy to onboard new contributors with reproducible workflows.
+
+Secure: Secrets and sensitive configs managed outside of code, following best practices.
+
+Future-ready: Modular design allows adding new microservices (e.g., recommendation engine, analytics) without disrupting existing ones.
  
 ---
 
-## 📬 Let's Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-link)  
-- 🐦 [Twitter](https://twitter.com/your-handle)  
-- 🌐 [Portfolio](https://your-portfolio-link)
-
----
+ 
+ 
 
 ⭐️ If you find my work useful, consider giving my repositories a star!
 
