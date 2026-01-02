@@ -1,56 +1,8 @@
 ![Architecture Diagram](info.png)
  
 
-# Hi there, I'm Hritik 👋
-
-🚀 Persistent, pragmatic, and founder-minded — I love architecting reproducible, error-proof workflows for Kubernetes, CI/CD, and cloud-native development. My focus is on clarity, automation, and scaling developer experience.
-
----
-
-## 🔥 Current Project: Streaming Service
-
-I'm currently working on a **Streaming Service** that integrates seamlessly with cloud databases and Kubernetes deployments.
-I'm currently developing a Streaming Service composed of multiple microservices that work together to deliver a seamless experience. Each microservice is designed with clear boundaries and responsibilities — from user authentication and content management to video delivery and notifications. The system integrates securely with cloud databases and runs on Kubernetes for scalability, resilience, and automated orchestration.
-
-### ✨ Highlights
-- **Secure Connectivity**: SSL/TLS enabled with mounted CA certificates.
-- **Scalable Architecture**: Built with Kubernetes, leveraging ConfigMaps and Secrets for safe config management.
-- **CI/CD Ready**: Pipelines designed for reproducible onboarding and error-proof secret handling.
-- **Developer-Friendly**: Modular scripts and templates to simplify onboarding across environments.
-
----
-
-## 🛠️ Tech Stack
-- **Languages**: Python, JavaScript,  
-- **Infrastructure**: Docker, Kubernetes 
-- **CI/CD**: GitHub Actions
-- **Database**: Cloud Databases
-- **Version Control**: Git & GitHub
-
----
-
-## 📈 Goals
-The goal of this project is to design and develop a scalable streaming platform built from multiple microservices. Each service — from authentication and user management to content catalog, video delivery, and notifications — is modular, independently deployable, and orchestrated through Kubernetes.
-
-By leveraging cloud databases (Aiven MySQL), secure secret management, and CI/CD pipelines, the aim is to create a system that is:
-
-**Resilient**: Fault-tolerant and self-healing under load.
-
-**Scalable**: Able to handle increasing traffic by horizontally scaling microservices.
-
-**Developer-friendly**: Easy to onboard new contributors with reproducible workflows.
-
-**Secure**: Secrets and sensitive configs managed outside of code, following best practices.
-
-**Future-ready**: Modular design allows adding new microservices (e.g., recommendation engine, analytics) without disrupting existing ones.
- 
----
-
  
  
-
-⭐️ If you find my work useful, consider giving my repositories a star!
-
 
  
  
