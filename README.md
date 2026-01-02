@@ -1,4 +1,4 @@
-![Architecture Diagram](info2.png)
+ 
  
 
  
