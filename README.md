@@ -1,3 +1,4 @@
+![Architecture Diagram](info.png)
  
 
 # Hi there, I'm Hritik 👋
