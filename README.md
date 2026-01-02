@@ -8,8 +8,8 @@
 
 ## 🔥 Current Project: Streaming Service
 
-I'm currently working on a **Streaming Service** that integrates seamlessly with cloud databases (Aiven MySQL) and Kubernetes deployments.
-I'm currently developing a Streaming Service composed of multiple microservices that work together to deliver a seamless experience. Each microservice is designed with clear boundaries and responsibilities — from user authentication and content management to video delivery and notifications. The system integrates securely with cloud databases (Aiven MySQL) and runs on Kubernetes for scalability, resilience, and automated orchestration.
+I'm currently working on a **Streaming Service** that integrates seamlessly with cloud databases and Kubernetes deployments.
+I'm currently developing a Streaming Service composed of multiple microservices that work together to deliver a seamless experience. Each microservice is designed with clear boundaries and responsibilities — from user authentication and content management to video delivery and notifications. The system integrates securely with cloud databases and runs on Kubernetes for scalability, resilience, and automated orchestration.
 
 ### ✨ Highlights
 - **Secure Connectivity**: SSL/TLS enabled with mounted CA certificates.
