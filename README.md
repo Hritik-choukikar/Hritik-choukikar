@@ -33,15 +33,15 @@ The goal of this project is to design and develop a scalable streaming platform 
 
 By leveraging cloud databases (Aiven MySQL), secure secret management, and CI/CD pipelines, the aim is to create a system that is:
 
-Resilient: Fault-tolerant and self-healing under load.
+**Resilient**: Fault-tolerant and self-healing under load.
 
-Scalable: Able to handle increasing traffic by horizontally scaling microservices.
+**Scalable**: Able to handle increasing traffic by horizontally scaling microservices.
 
-Developer-friendly: Easy to onboard new contributors with reproducible workflows.
+**Developer-friendly**: Easy to onboard new contributors with reproducible workflows.
 
-Secure: Secrets and sensitive configs managed outside of code, following best practices.
+**Secure**: Secrets and sensitive configs managed outside of code, following best practices.
 
-Future-ready: Modular design allows adding new microservices (e.g., recommendation engine, analytics) without disrupting existing ones.
+**Future-ready**: Modular design allows adding new microservices (e.g., recommendation engine, analytics) without disrupting existing ones.
  
 ---
 
