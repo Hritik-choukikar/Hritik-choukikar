@@ -15,7 +15,7 @@ This organization hosts multiple microservices that together form a scalable, mo
 - [Auth Service](https://github.com/my-org/auth-service)  
   Handles user authentication, login, and token management.
 
-- [Posting Service](https://github.com/my-org/posting-service)  
+- [Posting Service](https://github.com/stream-service/posting)  
   Manages content posting, feeds, and interactions.
 
 - [Frontend](https://github.com/my-org/frontend)  
