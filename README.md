@@ -18,6 +18,9 @@ This organization hosts multiple microservices that together form a scalable, mo
 - [Posting Service](https://github.com/stream-service/posting)  
   Manages content posting, feeds, and interactions.
 
+- [Posting Service](https://github.com/stream-service/Notification)  
+  Manages Notification
+
 - [Frontend](https://github.com/my-org/frontend)  
   Provides the user interface, connecting to backend services via API Gateway.
 
