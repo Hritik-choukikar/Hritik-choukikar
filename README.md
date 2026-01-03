@@ -12,20 +12,19 @@ This organization hosts multiple microservices that together form a scalable, mo
 
 ## 🔗 Repositories
 
-- [Auth Service](https://github.com/my-org/auth-service)  
+- [Auth Service](https://github.com/stream-service/Authentication)  
   Handles user authentication, login, and token management.
 
 - [Posting Service](https://github.com/stream-service/posting)  
   Manages content posting, feeds, and interactions.
 
-- [Posting Service](https://github.com/stream-service/Notification)  
+- [Notification Service](https://github.com/stream-service/Notification)  
   Manages Notification
 
 - [Frontend](https://github.com/my-org/frontend)  
   Provides the user interface, connecting to backend services via API Gateway.
 
-- [Infra](https://github.com/my-org/infra)  
-  Contains Kubernetes manifests, CI/CD pipelines, and deployment configurations.
+ 
 
 ---
 
