@@ -34,9 +34,10 @@ graph TD
     API_Gateway --> Auth_Service
     API_Gateway --> Posting_Service
     Auth_Service --> DB[(Auth DB)]
-    Posting_Service --> DB2[(Posts DB)]```
+    Posting_Service --> DB2[(Posts DB)] ```
  
- 
+ ## ⚙️ Tech Stack
+    - **Frontend**: React / Next.js - **Backend Services**: Node.js / Express - **Database**: MySQL (Aiven Cloud) - **Containerization**: Docker - **Orchestration**: Kubernetes (Ingress + LoadBalancer) - **CI/CD**: GitHub Actions
 
  
  
