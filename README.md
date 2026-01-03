@@ -34,7 +34,7 @@ graph TD
     API_Gateway --> Auth_Service
     API_Gateway --> Posting_Service
     Auth_Service --> DB[(Auth DB)]
-    Posting_Service --> DB2[(Posts DB)]
+    Posting_Service --> DB2[(Posts DB)]```
  
  
 
@@ -44,5 +44,5 @@ graph TD
  
  
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hritik-choukikar&theme=react-dark)
+ 
 
