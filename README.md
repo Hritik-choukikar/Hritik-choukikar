@@ -40,11 +40,11 @@ graph TD
     API_Gateway --> Streaming_Service
     API_Gateway --> Follow_Service
     Auth_Service --> DB[(Auth DB)]
-    Follow_Service --> DB[(Follow DB)]
-    Posting_Service --> DB[(Posts DB)]
-    Compression_service --> DB[(Compression DB)]
-    Streaming_Service --> DB[(Strteaming DB)]
-    Posting_Service --> DB[(Posts DB)]
+    Follow_Service --> DB2[(Follow DB)]
+    Posting_Service --> DB3[(Posts DB)]
+    Compression_service --> DB4[(Compression DB)]
+    Streaming_Service --> DB5[(Strteaming DB)]
+    Posting_Service --> DB6[(Posts DB)]
 ```
  
  ## ⚙️ Tech Stack
