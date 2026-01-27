@@ -35,8 +35,16 @@ graph TD
     User[Frontend UI] -->|HTTPS| API_Gateway
     API_Gateway --> Auth_Service
     API_Gateway --> Posting_Service
+    API_Gateway --> Compression_service
+    API_Gateway --> Notification_Service
+    API_Gateway --> Streaming_Service
+    API_Gateway --> Follow_Service
     Auth_Service --> DB[(Auth DB)]
-    Posting_Service --> DB2[(Posts DB)]
+    Follow_Service --> DB[(Follow DB)]
+    Posting_Service --> DB[(Posts DB)]
+    Compression_service --> DB[(Compression DB)]
+    Streaming_Service --> DB[(Strteaming DB)]
+    Posting_Service --> DB[(Posts DB)]
 ```
  
  ## ⚙️ Tech Stack
