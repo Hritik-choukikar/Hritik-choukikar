@@ -39,7 +39,12 @@ graph TD
     Posting_Service --> DB2[(Posts DB)] ```
  
  ## ⚙️ Tech Stack
-    - **Frontend**: React / Next.js - **Backend Services**: Node.js / Express - **Database**: MySQL (Aiven Cloud) - **Containerization**: Docker - **Orchestration**: Kubernetes (Ingress + LoadBalancer) - **CI/CD**: GitHub Actions
+    - **Frontend**: React / Next.js
+    - **Backend Services**: Node.js / Express
+    - **Database**: MySQL (Aiven Cloud)
+    - **Containerization**: Docker
+    - **Orchestration**: Kubernetes (Ingress + LoadBalancer)
+    - **CI/CD**: GitHub Actions
 
  
  
