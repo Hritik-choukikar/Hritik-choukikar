@@ -59,12 +59,13 @@ graph TD
 ```
  
  ## ⚙️ Tech Stack
-    - **Frontend**: HTML,CSS,JS
-    - **Backend Services**: Python
-    - **Database**: MySQL  
-    - **Containerization**: Docker
-    - **Orchestration**: Kubernetes (Ingress + LoadBalancer)
-    - **CI/CD**: GitHub Actions
+- **Frontend**: HTML, CSS, JS
+- **Backend Services**: Python
+- **Database**: MySQL  
+- **Containerization**: Docker
+- **Orchestration**: Kubernetes (Ingress + LoadBalancer)
+- **CI/CD**: GitHub Actions
+
 
  
  
