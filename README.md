@@ -44,8 +44,9 @@ graph TD
     Posting_Service --> DB3[(Posts DB)]
     Compression_service --> DB4[(Compression DB)]
     Streaming_Service --> DB5[(Strteaming DB)]
-    Posting_Service --> DB6[(Posts DB)]
+    Searching_service--> DB6[(Posts DB)]
     Notification_Service --> DB7[(Strteaming DB)]
+    
 ```
  
  ## ⚙️ Tech Stack
