@@ -9,29 +9,17 @@ Welcome to the **Streaming Platform** project!
 This organization hosts multiple microservices that together form a scalable, modular system for authentication, posting, and frontend delivery, all orchestrated via Kubernetes.
 
 ---
-
 ## 🔗 Repositories
 
-- [Auth Service](https://github.com/stream-service/Authentication)  
-  Handles user authentication, login, and token management.
-
-- [Posting Service](https://github.com/stream-service/posting)  
-  Manages content posting, feeds, and interactions.
-
-- [Notification Service](https://github.com/stream-service/Notification)  
-  Manages Notification
-
-- [Compression Service](https://github.com/stream-service/compression)  
-  Compress videos to multiple formats
-
-- [Search](https://github.com/stream-service/searching)  
-  A Service to search users
-
-- [Streaming Service](https://github.com/stream-service/streaming)  
-  A Service for straming videos
-  
-- [Frontend](https://github.com/my-org/frontend)  
-  Provides the user interface, connecting to backend services via API Gateway.
+| Service | Description |
+|---------|-------------|
+| [Auth Service](https://github.com/stream-service/Authentication) | Handles user authentication, login, and token management. |
+| [Posting Service](https://github.com/stream-service/posting) | Manages content posting, feeds, and interactions. |
+| [Notification Service](https://github.com/stream-service/Notification) | Manages Notification |
+| [Compression Service](https://github.com/stream-service/compression) | Compress videos to multiple formats |
+| [Search](https://github.com/stream-service/searching) | A Service to search users |
+| [Streaming Service](https://github.com/stream-service/streaming) | A Service for streaming videos |
+| [Frontend](https://github.com/my-org/frontend) | Provides the user interface, connecting to backend services via API Gateway. |
 
  
 
