@@ -48,6 +48,7 @@ graph TD
     API_Gateway --> Notification_Service
     API_Gateway --> Streaming_Service
     API_Gateway --> Follow_Service
+    API_Gateway --> Searching_Service
     Auth_Service --> DB[(Auth DB)]
     Follow_Service --> DB2[(Follow DB)]
     Posting_Service --> DB3[(Posts DB)]
