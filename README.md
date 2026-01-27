@@ -45,12 +45,13 @@ graph TD
     Compression_service --> DB4[(Compression DB)]
     Streaming_Service --> DB5[(Strteaming DB)]
     Posting_Service --> DB6[(Posts DB)]
+    Notification_Service --> DB7[(Strteaming DB)]
 ```
  
  ## ⚙️ Tech Stack
-    - **Frontend**: React / Next.js
-    - **Backend Services**: Node.js / Express
-    - **Database**: MySQL (Aiven Cloud)
+    - **Frontend**: HTML,CSS,JS
+    - **Backend Services**: Python
+    - **Database**: MySQL  
     - **Containerization**: Docker
     - **Orchestration**: Kubernetes (Ingress + LoadBalancer)
     - **CI/CD**: GitHub Actions
