@@ -6,7 +6,7 @@
 ![Docker](https://img.shields.io/badge/Docker-images-green?logo=docker)
 
 Welcome to the **Streaming Platform** project!  
-This organization hosts multiple microservices that together form a scalable, modular system for authentication, posting, and frontend delivery, all orchestrated via Kubernetes.
+This Repository hosts multiple microservices that together form a scalable, modular system for authentication, posting, and frontend delivery, all orchestrated via Kubernetes.
 
 ---
   
