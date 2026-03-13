@@ -8,7 +8,7 @@
 👋 **Welcome to my flagship project!**  
 Because of the massive scale and modularity of this system, **the codebase is not held in a single repository.** Instead, it is distributed across multiple independent microservices housed within a dedicated GitHub Organization.
 
-### 👉[Click here to explore the full GitHub Organization and its Repositories!](https://github.com/stream-service) 👈
+### 👉[Click here to explore the full GitHub Organization and its Repositories!](https://github.com/orgs/Stream-Service/repositories) 👈
 
 ---
 
