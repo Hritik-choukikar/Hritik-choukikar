@@ -43,7 +43,7 @@
 
 *A fully scalable, containerized video streaming platform — auth, compression, real-time streaming, notifications, and search, each as an independent deployable service.*
 
-**Tech:** *FastAPI · Kafka · Docker · Kubernetes · Redis · MySQL · AWS EC2*
+* **Tech:** * *FastAPI · Kafka · Docker · Kubernetes · Redis · MySQL · AWS EC2*
 
 <p align="center">
 
