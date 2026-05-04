@@ -43,7 +43,7 @@
 
 *A fully scalable, containerized video streaming platform — auth, compression, real-time streaming, notifications, and search, each as an independent deployable service.*
 
-* **Tech:** * *FastAPI · Kafka · Docker · Kubernetes · Redis · MySQL · AWS EC2*
+*Tech:* *FastAPI · Kafka · Docker · Kubernetes · Redis · MySQL · AWS EC2*
 
 <p align="center">
 
@@ -59,7 +59,7 @@
 
 *A modern digital library platform that streamlines book inventory, member management, borrowing workflows, and fine tracking — all in one clean interface.*
 
-* <em>Tech<em>:* *Python · FastAPI · React · PostgreSQL · Docker*
+*Tech:* *Python · FastAPI · React · PostgreSQL · Docker*
 
 <p align="center">
 
@@ -77,7 +77,7 @@
 
 *A production-ready platform that automates member registration, trainer scheduling, and payments — with Redis-backed sessions and RBAC security for role-specific access.*
 
-**Tech:** *Python · FastAPI · React · MySQL · Redis · AWS EC2 · Docker*
+*Tech:* *Python · FastAPI · React · MySQL · Redis · AWS EC2 · Docker*
 
 <p align="center">
 
@@ -118,7 +118,7 @@
 **🖥️ Frontend**
 *React* &nbsp;·&nbsp; *HTML5* &nbsp;·&nbsp; *CSS3*
 
-**⚙️ Backend & Messaging**
+*⚙️ Backend & Messaging*
 *FastAPI* &nbsp;·&nbsp; *REST API* &nbsp;·&nbsp; *Apache Kafka* &nbsp;·&nbsp; *RabbitMQ* &nbsp;·&nbsp; *Microservices* &nbsp;·&nbsp; *Event-driven Architecture*
 
 **🗄️ Databases & Caching**
