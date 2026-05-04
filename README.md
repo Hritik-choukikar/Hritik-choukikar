@@ -112,25 +112,25 @@
 
 <br>
 
-*🗣️ Languages*
+*🗣️ Languages:*
 *Python* &nbsp;·&nbsp; *JavaScript* &nbsp;·&nbsp; *SQL* &nbsp;·&nbsp; *Bash*
 
-*🖥️ Frontend*
+*🖥️ Frontend:*
 *React* &nbsp;·&nbsp; *HTML5* &nbsp;·&nbsp; *CSS3*
 
-*⚙️ Backend & Messaging*
+*⚙️ Backend & Messaging:*
 *FastAPI* &nbsp;·&nbsp; *REST API* &nbsp;·&nbsp; *Apache Kafka* &nbsp;·&nbsp; *RabbitMQ* &nbsp;·&nbsp; *Microservices* &nbsp;·&nbsp; *Event-driven Architecture*
 
-*🗄️ Databases & Caching*
+*🗄️ Databases & Caching:*
 *PostgreSQL* &nbsp;·&nbsp; *MySQL* &nbsp;·&nbsp; *MongoDB* &nbsp;·&nbsp; *Redis*
 
-*☁️ Cloud & Infrastructure*
+*☁️ Cloud & Infrastructure:*
 *AWS EC2* &nbsp;·&nbsp; *AWS S3* &nbsp;·&nbsp; *Docker* &nbsp;·&nbsp; *Kubernetes* &nbsp;·&nbsp; *GitHub Actions* &nbsp;·&nbsp; *CI/CD* &nbsp;·&nbsp; *Linux CLI*
 
-*🤖 AI & ML Tooling*
+*🤖 AI & ML Tooling:*
 *TensorFlow* &nbsp;·&nbsp; *Scikit-Learn* &nbsp;·&nbsp; *Pandas* &nbsp;·&nbsp; *Claude Code* &nbsp;·&nbsp; *GitHub Copilot* &nbsp;·&nbsp; *Cursor* &nbsp;·&nbsp; *Prompt Engineering*
 
-*🔧 Practices & Testing*
+*🔧 Practices & Testing:*
 *Distributed Systems* &nbsp;·&nbsp; *CQRS* &nbsp;·&nbsp; *RBAC* &nbsp;·&nbsp; *PyTest* &nbsp;·&nbsp; *Postman* &nbsp;·&nbsp; *Observability & SLOs*
 
 <br>
