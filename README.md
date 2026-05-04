@@ -15,15 +15,9 @@
 
 <br>
 
-<div align="center">
+<h2 align="center">· · · 👨‍💻 &nbsp; <em>About Me</em> &nbsp; 👨‍💻 · · ·</h2>
 
-```
-╔══════════════════════════════════════╗
-       👨‍💻  ABOUT ME
-╚══════════════════════════════════════╝
-```
-
-</div>
+<br>
 
 *Hey! I'm a passionate developer based in **Bhopal, Madhya Pradesh, India** who loves taking ideas from zero to fully deployed products. My work spans full-stack development, clean system architecture, and smooth user experiences.*
 
@@ -36,15 +30,9 @@
 
 <br>
 
-<div align="center">
+<h2 align="center">· · · 🛠️ &nbsp; <em>Tech Stack</em> &nbsp; 🛠️ · · ·</h2>
 
-```
-╔══════════════════════════════════════╗
-       🛠️  TECH STACK
-╚══════════════════════════════════════╝
-```
-
-</div>
+<br>
 
 **🗣️ Languages**
 *Python* &nbsp;·&nbsp; *JavaScript* &nbsp;·&nbsp; *SQL* &nbsp;·&nbsp; *Bash*
@@ -69,21 +57,11 @@
 
 <br>
 
-<div align="center">
+<h2 align="center">· · · 🚀 &nbsp; <em>Featured Projects</em> &nbsp; 🚀 · · ·</h2>
 
-```
-╔══════════════════════════════════════╗
-       🚀  FEATURED PROJECTS
-╚══════════════════════════════════════╝
-```
+<br>
 
-</div>
-
-<div align="center">
-
-### 🎬 Streaming Service — Microservices Platform
-
-</div>
+<h3 align="center">🎬 &nbsp; <em>Streaming Service — Microservices Platform</em></h3>
 
 > *A fully functional, highly scalable video streaming platform built with a microservices architecture.*
 
@@ -99,15 +77,15 @@
 
 **Tech:** *Python* &nbsp;·&nbsp; *FastAPI* &nbsp;·&nbsp; *React* &nbsp;·&nbsp; *Kafka* &nbsp;·&nbsp; *Docker* &nbsp;·&nbsp; *Kubernetes* &nbsp;·&nbsp; *Redis* &nbsp;·&nbsp; *MySQL* &nbsp;·&nbsp; *AWS EC2*
 
+<div align="center">
+
 [![GitHub Org](https://img.shields.io/badge/GitHub_Org-Stream--Service-181717?style=for-the-badge&logo=github)](https://github.com/orgs/Stream-Service/repositories)
+
+</div>
 
 ---
 
-<div align="center">
-
-### 📖 Liberty — Library Management System
-
-</div>
+<h3 align="center">📖 &nbsp; <em>Liberty — Library Management System</em></h3>
 
 > *A modern digital library platform designed to streamline book management, member registrations, and borrowing workflows.*
 
@@ -119,15 +97,15 @@
 
 **Tech:** *Python* &nbsp;·&nbsp; *FastAPI* &nbsp;·&nbsp; *React* &nbsp;·&nbsp; *PostgreSQL* &nbsp;·&nbsp; *Docker*
 
+<div align="center">
+
 [![View Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/Hritik-choukikar/liberty)
+
+</div>
 
 ---
 
-<div align="center">
-
-### 🏋️ Gym Management System
-
-</div>
+<h3 align="center">🏋️ &nbsp; <em>Gym Management System</em></h3>
 
 > *A production-ready gym management platform for administrators, trainers, and members — handling memberships, scheduling, and payments in one place.*
 
@@ -139,15 +117,15 @@
 
 **Tech:** *Python* &nbsp;·&nbsp; *FastAPI* &nbsp;·&nbsp; *React* &nbsp;·&nbsp; *MySQL* &nbsp;·&nbsp; *Redis* &nbsp;·&nbsp; *AWS EC2* &nbsp;·&nbsp; *Docker*
 
+<div align="center">
+
 [![View Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/Hritik-choukikar/gym-management)
+
+</div>
 
 ---
 
-<div align="center">
-
-### 📚 Folio — Online Publishing Platform
-
-</div>
+<h3 align="center">📚 &nbsp; <em>Folio — Online Publishing Platform</em></h3>
 
 > *A digital publishing platform where authors can publish, share, and manage their written work — and readers can discover content they love.*
 
@@ -159,19 +137,17 @@
 
 **Tech:** *Python* &nbsp;·&nbsp; *FastAPI* &nbsp;·&nbsp; *React* &nbsp;·&nbsp; *PostgreSQL* &nbsp;·&nbsp; *AWS S3*
 
+<div align="center">
+
 [![View Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/Hritik-choukikar/folio)
+
+</div>
 
 <br>
 
-<div align="center">
+<h2 align="center">· · · 📬 &nbsp; <em>Get In Touch</em> &nbsp; 📬 · · ·</h2>
 
-```
-╔══════════════════════════════════════╗
-       📬  GET IN TOUCH
-╚══════════════════════════════════════╝
-```
-
-</div>
+<br>
 
 *I'm always open to interesting conversations, collaborations, or opportunities.*
 
@@ -183,6 +159,6 @@
 
 <div align="center">
 
-*Built with passion from Bhopal, India 🇮🇳*
+*— Built with passion from Bhopal, India 🇮🇳 —*
 
 </div>
