@@ -30,6 +30,90 @@
 
 <br>
 
+<h2 align="center">· · · 🚀 &nbsp; <em>Featured Projects</em> &nbsp; 🚀 · · ·</h2>
+
+<br>
+
+<table>
+<tr>
+
+<td valign="top" width="50%">
+<h3 align="center">🎬 &nbsp; <em>Streaming Service</em></h3>
+<p align="center"><em>Microservices · Kubernetes · CI/CD</em></p>
+
+*A fully scalable, containerized video streaming platform — auth, compression, real-time streaming, notifications, and search, each as an independent deployable service.*
+
+🔐 JWT Auth &nbsp;·&nbsp; 📹 Live Streaming &nbsp;·&nbsp; 🗜️ Video Compression
+📝 Feeds &nbsp;·&nbsp; 🔔 Notifications &nbsp;·&nbsp; 🔍 Search
+
+**Tech:** *FastAPI · Kafka · Docker · Kubernetes · Redis · MySQL · AWS EC2*
+
+<p align="center">
+
+[![GitHub Org](https://img.shields.io/badge/GitHub_Org-Stream--Service-181717?style=for-the-badge&logo=github)](https://github.com/orgs/Stream-Service/repositories)
+
+</p>
+</td>
+
+<td valign="top" width="50%">
+<h3 align="center">📖 &nbsp; <em>Liberty</em></h3>
+<p align="center"><em>Library Management System</em></p>
+
+*A modern digital library platform that streamlines book inventory, member management, borrowing workflows, and fine tracking — all in one clean interface.*
+
+📚 Inventory &nbsp;·&nbsp; 👤 Members &nbsp;·&nbsp; 🔄 Borrow & Returns &nbsp;·&nbsp; 🔍 Search
+
+**Tech:** *Python · FastAPI · React · PostgreSQL · Docker*
+
+<p align="center">
+
+[![View Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/Hritik-choukikar/liberty)
+
+</p>
+</td>
+
+</tr>
+<tr>
+
+<td valign="top" width="50%">
+<h3 align="center">🏋️ &nbsp; <em>Gym Management System</em></h3>
+<p align="center"><em>Production-Ready · RBAC · AWS</em></p>
+
+*A production-ready platform that automates member registration, trainer scheduling, and payments — with Redis-backed sessions and RBAC security for role-specific access.*
+
+🧾 Memberships &nbsp;·&nbsp; 🗓️ Scheduling &nbsp;·&nbsp; 💳 Payments &nbsp;·&nbsp; 📊 Analytics
+
+**Tech:** *Python · FastAPI · React · MySQL · Redis · AWS EC2 · Docker*
+
+<p align="center">
+
+[![View Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/Hritik-choukikar/gym-management)
+
+</p>
+</td>
+
+<td valign="top" width="50%">
+<h3 align="center">📚 &nbsp; <em>Folio</em></h3>
+<p align="center"><em>Online Publishing Platform</em></p>
+
+*A digital publishing platform where authors write, publish, and manage their work — and readers discover content through smart tagging, search, and a clean reading experience.*
+
+✍️ Publishing &nbsp;·&nbsp; 📖 Reader UI &nbsp;·&nbsp; 🏷️ Tags & Search &nbsp;·&nbsp; 💬 Engagement
+
+**Tech:** *Python · FastAPI · React · PostgreSQL · AWS S3*
+
+<p align="center">
+
+[![View Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/Hritik-choukikar/folio)
+
+</p>
+</td>
+
+</tr>
+</table>
+
+<br>
+
 <h2 align="center">· · · 🛠️ &nbsp; <em>Tech Stack</em> &nbsp; 🛠️ · · ·</h2>
 
 <br>
@@ -54,94 +138,6 @@
 
 **🔧 Practices & Testing**
 *Distributed Systems* &nbsp;·&nbsp; *CQRS* &nbsp;·&nbsp; *RBAC* &nbsp;·&nbsp; *PyTest* &nbsp;·&nbsp; *Postman* &nbsp;·&nbsp; *Observability & SLOs*
-
-<br>
-
-<h2 align="center">· · · 🚀 &nbsp; <em>Featured Projects</em> &nbsp; 🚀 · · ·</h2>
-
-<br>
-
-<h3 align="center">🎬 &nbsp; <em>Streaming Service — Microservices Platform</em></h3>
-
-> *A fully functional, highly scalable video streaming platform built with a microservices architecture.*
-
-*The codebase is distributed across multiple independent services within a dedicated GitHub Organization — each service independently deployable, scalable, and maintained with its own CI/CD pipeline.*
-
-**Key Features:**
-* 🔐 *JWT-based Authentication & User Management*
-* 📹 *Real-time Video Streaming*
-* 🗜️ *Asynchronous Video Compression into multiple formats*
-* 📝 *Content Posting, Feeds & User Interactions*
-* 🔔 *Real-time Notifications*
-* 🔍 *Fast Search for users and video content*
-
-**Tech:** *Python* &nbsp;·&nbsp; *FastAPI* &nbsp;·&nbsp; *React* &nbsp;·&nbsp; *Kafka* &nbsp;·&nbsp; *Docker* &nbsp;·&nbsp; *Kubernetes* &nbsp;·&nbsp; *Redis* &nbsp;·&nbsp; *MySQL* &nbsp;·&nbsp; *AWS EC2*
-
-<div align="center">
-
-[![GitHub Org](https://img.shields.io/badge/GitHub_Org-Stream--Service-181717?style=for-the-badge&logo=github)](https://github.com/orgs/Stream-Service/repositories)
-
-</div>
-
----
-
-<h3 align="center">📖 &nbsp; <em>Liberty — Library Management System</em></h3>
-
-> *A modern digital library platform designed to streamline book management, member registrations, and borrowing workflows.*
-
-**Key Features:**
-* 📚 *Full book inventory management*
-* 👤 *Member registration & profile management*
-* 🔄 *Borrowing, returns & fine tracking*
-* 🔍 *Search & filter by genre, author, or title*
-
-**Tech:** *Python* &nbsp;·&nbsp; *FastAPI* &nbsp;·&nbsp; *React* &nbsp;·&nbsp; *PostgreSQL* &nbsp;·&nbsp; *Docker*
-
-<div align="center">
-
-[![View Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/Hritik-choukikar/liberty)
-
-</div>
-
----
-
-<h3 align="center">🏋️ &nbsp; <em>Gym Management System</em></h3>
-
-> *A production-ready gym management platform for administrators, trainers, and members — handling memberships, scheduling, and payments in one place.*
-
-**Key Features:**
-* 🧾 *Member enrollment & subscription management*
-* 🗓️ *Trainer scheduling & session tracking*
-* 💳 *Payment processing & history*
-* 📊 *Admin dashboard with analytics*
-
-**Tech:** *Python* &nbsp;·&nbsp; *FastAPI* &nbsp;·&nbsp; *React* &nbsp;·&nbsp; *MySQL* &nbsp;·&nbsp; *Redis* &nbsp;·&nbsp; *AWS EC2* &nbsp;·&nbsp; *Docker*
-
-<div align="center">
-
-[![View Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/Hritik-choukikar/gym-management)
-
-</div>
-
----
-
-<h3 align="center">📚 &nbsp; <em>Folio — Online Publishing Platform</em></h3>
-
-> *A digital publishing platform where authors can publish, share, and manage their written work — and readers can discover content they love.*
-
-**Key Features:**
-* ✍️ *Author publishing dashboard*
-* 📖 *Reader-facing discovery & reading interface*
-* 🏷️ *Tagging, categorization & search*
-* 💬 *Engagement & interaction features*
-
-**Tech:** *Python* &nbsp;·&nbsp; *FastAPI* &nbsp;·&nbsp; *React* &nbsp;·&nbsp; *PostgreSQL* &nbsp;·&nbsp; *AWS S3*
-
-<div align="center">
-
-[![View Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/Hritik-choukikar/folio)
-
-</div>
 
 <br>
 
