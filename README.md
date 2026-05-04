@@ -141,7 +141,7 @@
 
 *I'm always open to interesting conversations, collaborations, or opportunities.*
 
-* 🌐 *Portfolio:* *[hritik-choukikar.github.io]*(https://hritik-choukikar.github.io/)
+* 🌐 *Portfolio:* [*hritik-choukikar.github.io*](https://hritik-choukikar.github.io/)
 * 💼 *LinkedIn:* *[linkedin.com/in/hritik-choukikar]*(https://www.linkedin.com/in/hritik-choukikar/)
 * 📧 *Email:* *[hritikchoukikarwork24@gmail.com]*(mailto:hritikchoukikarwork24@gmail.com)
 
