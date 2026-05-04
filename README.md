@@ -43,8 +43,7 @@
 
 *A fully scalable, containerized video streaming platform — auth, compression, real-time streaming, notifications, and search, each as an independent deployable service.*
 
-🔐 JWT Auth &nbsp;·&nbsp; 📹 Live Streaming &nbsp;·&nbsp; 🗜️ Video Compression
-📝 Feeds &nbsp;·&nbsp; 🔔 Notifications &nbsp;·&nbsp; 🔍 Search
+ 
 
 **Tech:** *FastAPI · Kafka · Docker · Kubernetes · Redis · MySQL · AWS EC2*
 
@@ -61,7 +60,7 @@
 
 *A modern digital library platform that streamlines book inventory, member management, borrowing workflows, and fine tracking — all in one clean interface.*
 
-📚 Inventory &nbsp;·&nbsp; 👤 Members &nbsp;·&nbsp; 🔄 Borrow & Returns &nbsp;·&nbsp; 🔍 Search
+ 
 
 **Tech:** *Python · FastAPI · React · PostgreSQL · Docker*
 
@@ -81,7 +80,7 @@
 
 *A production-ready platform that automates member registration, trainer scheduling, and payments — with Redis-backed sessions and RBAC security for role-specific access.*
 
-🧾 Memberships &nbsp;·&nbsp; 🗓️ Scheduling &nbsp;·&nbsp; 💳 Payments &nbsp;·&nbsp; 📊 Analytics
+ 
 
 **Tech:** *Python · FastAPI · React · MySQL · Redis · AWS EC2 · Docker*
 
@@ -98,7 +97,7 @@
 
 *A digital publishing platform where authors write, publish, and manage their work — and readers discover content through smart tagging, search, and a clean reading experience.*
 
-✍️ Publishing &nbsp;·&nbsp; 📖 Reader UI &nbsp;·&nbsp; 🏷️ Tags & Search &nbsp;·&nbsp; 💬 Engagement
+ 
 
 **Tech:** *Python · FastAPI · React · PostgreSQL · AWS S3*
 
