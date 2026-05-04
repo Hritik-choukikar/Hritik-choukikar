@@ -17,14 +17,14 @@
 
 ## 👨‍💻 About Me
 
-*Hey! I'm a passionate developer based in **Bhopal, Madhya Pradesh, India** who loves taking ideas from zero to fully deployed products. My work spans full-stack development, clean system architecture, and smooth user experiences.
+*Hey! I'm a passionate developer based in **Bhopal, Madhya Pradesh, India** who loves taking ideas from zero to fully deployed products. My work spans full-stack development, clean system architecture, and smooth user experiences.*
 
 I enjoy building systems with real-world impact — whether that's a scalable streaming platform backed by microservices, a digital library for readers, or a management system that solves daily operational problems.
 
 - 🔭 Currently building and scaling production-grade web applications
 - 🌱 Focused on distributed systems, clean architecture & DevOps
 - 💡 4+ real-world projects shipped and live
-- 📍 Bhopal, India &nbsp;|&nbsp; 🕐 UTC +05:30*
+- 📍 Bhopal, India &nbsp;|&nbsp; 🕐 UTC +05:30
 
 ---
 
