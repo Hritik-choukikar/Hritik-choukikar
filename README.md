@@ -2,7 +2,7 @@
 
 # Hritik Choukikar
 
-**Full-Stack Developer & Web Creator**
+* **Full-Stack Developer & Web Creator** *
 
 *I build streaming platforms, digital libraries, and management systems — real products, deployed and live for people to use.*
 
