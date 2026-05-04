@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hritik Choukikar
+* # Hritik Choukikar *
 
 * **Full-Stack Developer & Web Creator** *
 
