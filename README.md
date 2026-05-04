@@ -1,8 +1,8 @@
 <div align="center">
 
-* # Hritik Choukikar *
+# Hritik Choukikar
 
-* **Full-Stack Developer & Web Creator** *
+**Full-Stack Developer & Web Creator**
 
 *I build streaming platforms, digital libraries, and management systems — real products, deployed and live for people to use.*
 
@@ -21,67 +21,35 @@
 
 *I enjoy building systems with real-world impact — whether that's a scalable streaming platform backed by microservices, a digital library for readers, or a management system that solves daily operational problems.*
 
-- 🔭 *Currently building and scaling production-grade web applications*
-- 🌱 *Focused on distributed systems, clean architecture & DevOps*
-- 💡 *4+ real-world projects shipped and live*
-- 📍 *Bhopal, India &nbsp;|&nbsp; 🕐 UTC +05:30*
+* 🔭 *Currently building and scaling production-grade web applications*
+* 🌱 *Focused on distributed systems, clean architecture & DevOps*
+* 💡 *4+ real-world projects shipped and live*
+* 📍 *Bhopal, India &nbsp;|&nbsp; 🕐 UTC +05:30*
 
 ---
 
 ## 🛠️ Tech Stack
 
-<table>
-<tr>
-<td valign="top" width="50%">
+**🗣️ Languages**
+*Python* &nbsp;·&nbsp; *JavaScript* &nbsp;·&nbsp; *SQL* &nbsp;·&nbsp; *Bash*
 
-<b>🗣️ Languages</b><br><br>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
+**🖥️ Frontend**
+*React* &nbsp;·&nbsp; *HTML5* &nbsp;·&nbsp; *CSS3*
 
-<br><b>🖥️ Frontend</b><br><br>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+**⚙️ Backend & Messaging**
+*FastAPI* &nbsp;·&nbsp; *REST API* &nbsp;·&nbsp; *Apache Kafka* &nbsp;·&nbsp; *RabbitMQ* &nbsp;·&nbsp; *Microservices* &nbsp;·&nbsp; *Event-driven Architecture*
 
-<br><b>⚙️ Backend & Messaging</b><br><br>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white" />
-<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" />
+**🗄️ Databases & Caching**
+*PostgreSQL* &nbsp;·&nbsp; *MySQL* &nbsp;·&nbsp; *MongoDB* &nbsp;·&nbsp; *Redis*
 
-<br><b>🗄️ Databases & Caching</b><br><br>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+**☁️ Cloud & Infrastructure**
+*AWS EC2* &nbsp;·&nbsp; *AWS S3* &nbsp;·&nbsp; *Docker* &nbsp;·&nbsp; *Kubernetes* &nbsp;·&nbsp; *GitHub Actions* &nbsp;·&nbsp; *CI/CD* &nbsp;·&nbsp; *Linux CLI*
 
-</td>
-<td valign="top" width="50%">
+**🤖 AI & ML Tooling**
+*TensorFlow* &nbsp;·&nbsp; *Scikit-Learn* &nbsp;·&nbsp; *Pandas* &nbsp;·&nbsp; *Claude Code* &nbsp;·&nbsp; *GitHub Copilot* &nbsp;·&nbsp; *Cursor* &nbsp;·&nbsp; *Prompt Engineering*
 
-<b>☁️ Cloud & Infrastructure</b><br><br>
-<img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazon-ec2&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS_S3-569A31?style=flat-square&logo=amazon-s3&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-
-<br><b>🤖 AI & ML Tooling</b><br><br>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=github&logoColor=white" />
-
-<br><b>🔧 Practices & Testing</b><br><br>
-<img src="https://img.shields.io/badge/REST_API-009688?style=flat-square&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/PyTest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux_CLI-FCC624?style=flat-square&logo=linux&logoColor=black" />
-
-</td>
-</tr>
-</table>
+**🔧 Practices & Testing**
+*Distributed Systems* &nbsp;·&nbsp; *CQRS* &nbsp;·&nbsp; *RBAC* &nbsp;·&nbsp; *PyTest* &nbsp;·&nbsp; *Postman* &nbsp;·&nbsp; *Observability & SLOs*
 
 ---
 
@@ -89,27 +57,19 @@
 
 ### 🎬 Streaming Service — Microservices Platform
 
-> A fully functional, highly scalable video streaming platform built with a microservices architecture.
+> *A fully functional, highly scalable video streaming platform built with a microservices architecture.*
 
-The codebase is distributed across multiple independent services within a dedicated GitHub Organization — each service independently deployable, scalable, and maintained with its own CI/CD pipeline.
+*The codebase is distributed across multiple independent services within a dedicated GitHub Organization — each service independently deployable, scalable, and maintained with its own CI/CD pipeline.*
 
 **Key Features:**
-- 🔐 JWT-based Authentication & User Management
-- 📹 Real-time Video Streaming
-- 🗜️ Asynchronous Video Compression into multiple formats
-- 📝 Content Posting, Feeds & User Interactions
-- 🔔 Real-time Notifications
-- 🔍 Fast Search for users and video content
+* 🔐 *JWT-based Authentication & User Management*
+* 📹 *Real-time Video Streaming*
+* 🗜️ *Asynchronous Video Compression into multiple formats*
+* 📝 *Content Posting, Feeds & User Interactions*
+* 🔔 *Real-time Notifications*
+* 🔍 *Fast Search for users and video content*
 
-**Tech:**&nbsp;
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazon-ec2&logoColor=white" />
+**Tech:** *Python* &nbsp;·&nbsp; *FastAPI* &nbsp;·&nbsp; *React* &nbsp;·&nbsp; *Kafka* &nbsp;·&nbsp; *Docker* &nbsp;·&nbsp; *Kubernetes* &nbsp;·&nbsp; *GitHub Actions* &nbsp;·&nbsp; *Redis* &nbsp;·&nbsp; *MySQL* &nbsp;·&nbsp; *AWS EC2*
 
 [![GitHub Org](https://img.shields.io/badge/GitHub_Org-Stream--Service-181717?style=for-the-badge&logo=github)](https://github.com/orgs/Stream-Service/repositories)
 
@@ -117,20 +77,15 @@ The codebase is distributed across multiple independent services within a dedica
 
 ### 📖 Liberty — Library Management System
 
-> A modern digital library platform designed to streamline book management, member registrations, and borrowing workflows.
+> *A modern digital library platform designed to streamline book management, member registrations, and borrowing workflows.*
 
 **Key Features:**
-- 📚 Full book inventory management
-- 👤 Member registration & profile management
-- 🔄 Borrowing, returns & fine tracking
-- 🔍 Search & filter by genre, author, or title
+* 📚 *Full book inventory management*
+* 👤 *Member registration & profile management*
+* 🔄 *Borrowing, returns & fine tracking*
+* 🔍 *Search & filter by genre, author, or title*
 
-**Tech:**&nbsp;
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+**Tech:** *Python* &nbsp;·&nbsp; *FastAPI* &nbsp;·&nbsp; *React* &nbsp;·&nbsp; *PostgreSQL* &nbsp;·&nbsp; *Docker*
 
 [![View Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/Hritik-choukikar/liberty)
 
@@ -138,21 +93,15 @@ The codebase is distributed across multiple independent services within a dedica
 
 ### 🏋️ Gym Management System
 
-> A comprehensive gym management solution for administrators, trainers, and members — handling memberships, scheduling, and payments in one place.
+> *A production-ready gym management platform for administrators, trainers, and members — handling memberships, scheduling, and payments in one place.*
 
 **Key Features:**
-- 🧾 Member enrollment & subscription management
-- 🗓️ Trainer scheduling & session tracking
-- 💳 Payment processing & history
-- 📊 Admin dashboard with analytics
+* 🧾 *Member enrollment & subscription management*
+* 🗓️ *Trainer scheduling & session tracking*
+* 💳 *Payment processing & history*
+* 📊 *Admin dashboard with analytics*
 
-**Tech:**&nbsp;
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazon-ec2&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+**Tech:** *Python* &nbsp;·&nbsp; *FastAPI* &nbsp;·&nbsp; *React* &nbsp;·&nbsp; *MySQL* &nbsp;·&nbsp; *Redis* &nbsp;·&nbsp; *AWS EC2* &nbsp;·&nbsp; *Docker*
 
 [![View Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/Hritik-choukikar/gym-management)
 
@@ -160,20 +109,15 @@ The codebase is distributed across multiple independent services within a dedica
 
 ### 📚 Folio — Online Publishing Platform
 
-> A digital publishing platform where authors can publish, share, and manage their written work — and readers can discover content they love.
+> *A digital publishing platform where authors can publish, share, and manage their written work — and readers can discover content they love.*
 
 **Key Features:**
-- ✍️ Author publishing dashboard
-- 📖 Reader-facing discovery & reading interface
-- 🏷️ Tagging, categorization & search
-- 💬 Engagement & interaction features
+* ✍️ *Author publishing dashboard*
+* 📖 *Reader-facing discovery & reading interface*
+* 🏷️ *Tagging, categorization & search*
+* 💬 *Engagement & interaction features*
 
-**Tech:**&nbsp;
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS_S3-569A31?style=flat-square&logo=amazon-s3&logoColor=white" />
+**Tech:** *Python* &nbsp;·&nbsp; *FastAPI* &nbsp;·&nbsp; *React* &nbsp;·&nbsp; *PostgreSQL* &nbsp;·&nbsp; *AWS S3*
 
 [![View Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/Hritik-choukikar/folio)
 
@@ -202,11 +146,11 @@ The codebase is distributed across multiple independent services within a dedica
 
 ## 📬 Get in Touch
 
-I'm always open to interesting conversations, collaborations, or opportunities.
+*I'm always open to interesting conversations, collaborations, or opportunities.*
 
-- 🌐 **Portfolio:** [hritik-choukikar.github.io](https://hritik-choukikar.github.io/)
-- 💼 **LinkedIn:** [linkedin.com/in/hritik-choukikar](https://www.linkedin.com/in/hritik-choukikar/)
-- 📧 **Email:** [hritikchoukikarwork24@gmail.com](mailto:hritikchoukikarwork24@gmail.com)
+* 🌐 **Portfolio:** [hritik-choukikar.github.io](https://hritik-choukikar.github.io/)
+* 💼 **LinkedIn:** [linkedin.com/in/hritik-choukikar](https://www.linkedin.com/in/hritik-choukikar/)
+* 📧 **Email:** [hritikchoukikarwork24@gmail.com](mailto:hritikchoukikarwork24@gmail.com)
 
 ---
 
