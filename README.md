@@ -13,9 +13,17 @@
 
 </div>
 
----
+<br>
 
-## 👨‍💻 About Me
+<div align="center">
+
+```
+╔══════════════════════════════════════╗
+       👨‍💻  ABOUT ME
+╚══════════════════════════════════════╝
+```
+
+</div>
 
 *Hey! I'm a passionate developer based in **Bhopal, Madhya Pradesh, India** who loves taking ideas from zero to fully deployed products. My work spans full-stack development, clean system architecture, and smooth user experiences.*
 
@@ -26,9 +34,17 @@
 * 💡 *4+ real-world projects shipped and live*
 * 📍 *Bhopal, India &nbsp;|&nbsp; 🕐 UTC +05:30*
 
----
+<br>
 
-## 🛠️ Tech Stack
+<div align="center">
+
+```
+╔══════════════════════════════════════╗
+       🛠️  TECH STACK
+╚══════════════════════════════════════╝
+```
+
+</div>
 
 **🗣️ Languages**
 *Python* &nbsp;·&nbsp; *JavaScript* &nbsp;·&nbsp; *SQL* &nbsp;·&nbsp; *Bash*
@@ -51,11 +67,23 @@
 **🔧 Practices & Testing**
 *Distributed Systems* &nbsp;·&nbsp; *CQRS* &nbsp;·&nbsp; *RBAC* &nbsp;·&nbsp; *PyTest* &nbsp;·&nbsp; *Postman* &nbsp;·&nbsp; *Observability & SLOs*
 
----
+<br>
 
-## 🚀 Featured Projects
+<div align="center">
+
+```
+╔══════════════════════════════════════╗
+       🚀  FEATURED PROJECTS
+╚══════════════════════════════════════╝
+```
+
+</div>
+
+<div align="center">
 
 ### 🎬 Streaming Service — Microservices Platform
+
+</div>
 
 > *A fully functional, highly scalable video streaming platform built with a microservices architecture.*
 
@@ -69,13 +97,17 @@
 * 🔔 *Real-time Notifications*
 * 🔍 *Fast Search for users and video content*
 
-**Tech:** *Python* &nbsp;·&nbsp; *FastAPI* &nbsp;·&nbsp; *React* &nbsp;·&nbsp; *Kafka* &nbsp;·&nbsp; *Docker* &nbsp;·&nbsp; *Kubernetes* &nbsp;·&nbsp; *GitHub Actions* &nbsp;·&nbsp; *Redis* &nbsp;·&nbsp; *MySQL* &nbsp;·&nbsp; *AWS EC2*
+**Tech:** *Python* &nbsp;·&nbsp; *FastAPI* &nbsp;·&nbsp; *React* &nbsp;·&nbsp; *Kafka* &nbsp;·&nbsp; *Docker* &nbsp;·&nbsp; *Kubernetes* &nbsp;·&nbsp; *Redis* &nbsp;·&nbsp; *MySQL* &nbsp;·&nbsp; *AWS EC2*
 
 [![GitHub Org](https://img.shields.io/badge/GitHub_Org-Stream--Service-181717?style=for-the-badge&logo=github)](https://github.com/orgs/Stream-Service/repositories)
 
 ---
 
+<div align="center">
+
 ### 📖 Liberty — Library Management System
+
+</div>
 
 > *A modern digital library platform designed to streamline book management, member registrations, and borrowing workflows.*
 
@@ -91,7 +123,11 @@
 
 ---
 
+<div align="center">
+
 ### 🏋️ Gym Management System
+
+</div>
 
 > *A production-ready gym management platform for administrators, trainers, and members — handling memberships, scheduling, and payments in one place.*
 
@@ -107,7 +143,11 @@
 
 ---
 
+<div align="center">
+
 ### 📚 Folio — Online Publishing Platform
+
+</div>
 
 > *A digital publishing platform where authors can publish, share, and manage their written work — and readers can discover content they love.*
 
@@ -121,30 +161,17 @@
 
 [![View Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/Hritik-choukikar/folio)
 
----
-
-## 📊 GitHub Stats
+<br>
 
 <div align="center">
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Hritik-choukikar&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" alt="Hritik's GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hritik-choukikar&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Hritik-choukikar&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
+```
+╔══════════════════════════════════════╗
+       📬  GET IN TOUCH
+╚══════════════════════════════════════╝
+```
 
 </div>
-
----
-
-## 📬 Get in Touch
 
 *I'm always open to interesting conversations, collaborations, or opportunities.*
 
@@ -152,7 +179,7 @@
 * 💼 **LinkedIn:** [linkedin.com/in/hritik-choukikar](https://www.linkedin.com/in/hritik-choukikar/)
 * 📧 **Email:** [hritikchoukikarwork24@gmail.com](mailto:hritikchoukikarwork24@gmail.com)
 
----
+<br>
 
 <div align="center">
 
