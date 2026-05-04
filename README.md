@@ -59,7 +59,7 @@
 
 *A modern digital library platform that streamlines book inventory, member management, borrowing workflows, and fine tracking — all in one clean interface.*
 
-**Tech:** *Python · FastAPI · React · PostgreSQL · Docker*
+* <em>Tech<em>:* *Python · FastAPI · React · PostgreSQL · Docker*
 
 <p align="center">
 
